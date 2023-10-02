@@ -1,0 +1,7 @@
+* When i gave the visiual presentation to sir,  so sir told me that create a simple screen recorder.
+* I discussed this with my team mate and decided that we will make a simple screen recorder.
+* We came up with a simple idea and made the screen recorder.
+* After making the screen recorder it was my duty of doing the documentation and feedback form.
+* I showed the code to my peers and friends and then asked them to fill the feedback form that i send them through whatsapp.
+* Later i got a creative idea that we should name our screen recorder something not just screen recorder, so i came up with a name **Stellar Screen**.
+* We discussed this also that we will share our feedback form after we have shown our screen recorder to them as not all of them has python library installed in the devices.
