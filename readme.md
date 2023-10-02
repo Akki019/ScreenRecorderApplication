@@ -53,4 +53,4 @@ https://docs.google.com/forms/d/1lYkBG3SnApWw6e56zLZJPVxqnb8b5Ta6Gz5AKW2YohM/edi
 
 Embark on your recording odyssey with StellarScreen, where the cosmos meets creativity! 🚀✨
                                                                                                        
-                                                                                          **MADE BY : KANAV KUMAR AND AKSHIT BHUTANI**
+                                                                            **MADE BY : KANAV KUMAR AND AKSHIT BHUTANI**
